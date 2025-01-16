@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/mert-doğan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mert-doğan" height="30" width="40" /></a>
 <a href="https://fb.com/mertprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mertprofile" height="30" width="40" /></a>
 <a href="https://instagram.com/mert.dogan.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mert.dogan.official" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mert.dogan.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mert.dogan.official" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mert.dogan.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mert.dogan.official" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
