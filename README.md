@@ -14,10 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+[![Generate snake game](https://github.com/mertdogan35/mertdogan35/actions/workflows/snake.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/mertdogan35/mertdogan35/actions/workflows/snake.yml)
